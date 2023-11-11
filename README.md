@@ -1,1 +1,1 @@
-Open Graph (OG) Image for [pyaesoneaung.com](https://www.pyaesoneaung.com)
+Open Graph (OG) Image for [pyaesoneaung.dev](https://www.pyaesoneaung.dev)
