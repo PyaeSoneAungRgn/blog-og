@@ -42,7 +42,7 @@ export async function GET(request: Request) {
                             fontSize: 20,
                         }}
                     >
-                        pyaesoneaung.com
+                        pyaesoneaung.dev
                     </span>
                 </div>
                 <div
